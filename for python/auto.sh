@@ -8,7 +8,7 @@
 #
 
 
-
+echo -n "" > output.out #clear the contents of output.out file
 dataFolder=data #folder name where the sub-directories containing homework files for each student contains.
 OUTFILE=output.out
 for dir in ./$dataFolder/*/

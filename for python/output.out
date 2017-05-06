@@ -1,0 +1,1833 @@
+________________________________________________________________________
+adandekar
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+aglontaru
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Introduce n:
+Introduce m:
+Introduce the character:
+hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Introduce n:
+Introduce m:
+Introduce the character:
+cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Introduce n:
+Introduce m:
+Introduce the character:
+ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Introduce n:
+Introduce m:
+Introduce the character:
+xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+ahsaeed
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter rows: Enter columns: Give a character: hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Enter rows: Enter columns: Give a character: cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Enter rows: Enter columns: Give a character: ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Enter rows: Enter columns: Give a character: xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+akhanal
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter a number: Enter another number: Enter a char: hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Enter a number: Enter another number: Enter a char: cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Enter a number: Enter another number: Enter a char: ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Enter a number: Enter another number: Enter a char: xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+alpopa
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Insert the integer n:Insert the integer m:Insert the character:hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Insert the integer n:Insert the integer m:Insert the character:cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Insert the integer n:Insert the integer m:Insert the character:ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Insert the integer n:Insert the integer m:Insert the character:xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+amaiereanu
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter the first dimension of the rectangle: Enter the second dimension of the rectangle: Enter the character: hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Enter the first dimension of the rectangle: Enter the second dimension of the rectangle: Enter the character: cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Enter the first dimension of the rectangle: Enter the second dimension of the rectangle: Enter the character: ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Enter the first dimension of the rectangle: Enter the second dimension of the rectangle: Enter the character: xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+amchedlish
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter the width(horizontal): Enter the length(vertical): cccccccccc
+c          c
+c          c
+c          c
+cccccccccc
+testcase1.txt :
+|------------|
+Enter the width(horizontal): Enter the length(vertical): cccc
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+cccc
+testcase2.txt :
+|------------|
+Enter the width(horizontal): Enter the length(vertical): ccc
+c   c
+ccc
+testcase3.txt :
+|------------|
+Enter the width(horizontal): Enter the length(vertical): ccccccc
+c       c
+c       c
+c       c
+c       c
+c       c
+ccccccc
+________________________________________________________________________
+anaweed
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter width: Enter length: Enter character: hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Enter width: Enter length: Enter character: cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Enter width: Enter length: Enter character: ooo
+o  o
+o  o
+ooo
+testcase3.txt :
+|------------|
+Enter width: Enter length: Enter character: xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+arghosh
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter the length of the rectangle=Enter the breadth of the rectangle=Enter any character of your choice=
+hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhhtestcase1.txt :
+|------------|
+Enter the length of the rectangle=Enter the breadth of the rectangle=Enter any character of your choice=
+cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccctestcase2.txt :
+|------------|
+Enter the length of the rectangle=Enter the breadth of the rectangle=Enter any character of your choice=
+ooo
+o o
+oootestcase3.txt :
+|------------|
+Enter the length of the rectangle=Enter the breadth of the rectangle=Enter any character of your choice=
+xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx________________________________________________________________________
+asasu
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+atayyab
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Please input a number: 
+Please input another number: 
+Please input a character: 
+hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Please input a number: 
+Please input another number: 
+Please input a character: 
+cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Please input a number: 
+Please input another number: 
+Please input a character: 
+ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Please input a number: 
+Please input another number: 
+Please input a character: 
+xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+azimmer
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Introduce the first dimension:Introduce the second dimension:Introduce the characterhhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Introduce the first dimension:Introduce the second dimension:Introduce the charactercccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Introduce the first dimension:Introduce the second dimension:Introduce the characterooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Introduce the first dimension:Introduce the second dimension:Introduce the characterxxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+bamare
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter the length:Enter the width:Enter the character c:hhhhhhhhhh
+h        h
+h        h
+h        h
+hhhhhhhhhh
+testcase1.txt :
+|------------|
+Enter the length:Enter the width:Enter the character c:cccc
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+cccc
+testcase2.txt :
+|------------|
+Enter the length:Enter the width:Enter the character c:ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Enter the length:Enter the width:Enter the character c:xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+bdikici
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter width: Enter height: Enter character: hhhhhhhhhh
+h        h
+h        h
+h        h
+hhhhhhhhhh
+testcase1.txt :
+|------------|
+Enter width: Enter height: Enter character: cccc
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+cccc
+testcase2.txt :
+|------------|
+Enter width: Enter height: Enter character: ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Enter width: Enter height: Enter character: xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+bthapa
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Rectangle height: Rectangle width: Character to use: hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Rectangle height: Rectangle width: Character to use: cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Rectangle height: Rectangle width: Character to use: ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Rectangle height: Rectangle width: Character to use: xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+dzhan
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+please enter the length please enter the width please enter a character hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+please enter the length please enter the width please enter a character cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+please enter the length please enter the width please enter a character ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+please enter the length please enter the width please enter a character xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+enderimo
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter Width:Enter Height:Enter character:hhhhhhhhhh
+h           h
+h           h
+h           h
+h           h
+hhhhhhhhhh
+Enter Width:testcase1.txt :
+|------------|
+Enter Width:Enter Height:Enter character:cccc
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+c     c
+cccc
+Enter Width:testcase2.txt :
+|------------|
+Enter Width:Enter Height:Enter character:ooo
+o    o
+o    o
+ooo
+Enter Width:testcase3.txt :
+|------------|
+Enter Width:Enter Height:Enter character:xxxxxxx
+x        x
+x        x
+x        x
+x        x
+x        x
+x        x
+xxxxxxx
+Enter Width:________________________________________________________________________
+felmi
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+put an integer here:put the second integer here:Enter an character here please:hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+put an integer here:put the second integer here:Enter an character here please:cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+put an integer here:put the second integer here:Enter an character here please:ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+put an integer here:put the second integer here:Enter an character here please:xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+fwang
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter an int Enter an int:Enter a character:hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Enter an int Enter an int:Enter a character:cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Enter an int Enter an int:Enter a character:ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Enter an int Enter an int:Enter a character:xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+ggiramahor
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+enter an integer value of n
+enter an integer value of m
+enter a character value of c
+$$$$$$$
+$     $
+$     $
+$$$$$$$
+testcase1.txt :
+|------------|
+enter an integer value of n
+enter an integer value of m
+enter a character value of c
+$$$$$$$
+$     $
+$     $
+$$$$$$$
+testcase2.txt :
+|------------|
+enter an integer value of n
+enter an integer value of m
+enter a character value of c
+$$$$$$$
+$     $
+$     $
+$$$$$$$
+testcase3.txt :
+|------------|
+enter an integer value of n
+enter an integer value of m
+enter a character value of c
+$$$$$$$
+$     $
+$     $
+$$$$$$$
+________________________________________________________________________
+ghezagirwa
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Printing a frame
+Please enter the length of your frame: Please enter the width of your frame: Please enter the character for your frame: hhhhhhhhhh
+h        h
+h        h
+h        h
+hhhhhhhhhh
+testcase1.txt :
+|------------|
+Printing a frame
+Please enter the length of your frame: Please enter the width of your frame: Please enter the character for your frame: cccc
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+cccc
+testcase2.txt :
+|------------|
+Printing a frame
+Please enter the length of your frame: Please enter the width of your frame: Please enter the character for your frame: ooo
+o  o
+ooo
+testcase3.txt :
+|------------|
+Printing a frame
+Please enter the length of your frame: Please enter the width of your frame: Please enter the character for your frame: xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+gnatesan
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+testcase1.txt :
+|------------|
+testcase2.txt :
+|------------|
+testcase3.txt :
+|------------|
+________________________________________________________________________
+gtrajkoski
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Please enter an integer for width:Please enter an integer for length:Please enter a character:hhhhhhhhhh
+h        h 
+h        h 
+h        h 
+hhhhhhhhhh
+testcase1.txt :
+|------------|
+Please enter an integer for width:Please enter an integer for length:Please enter a character:cccc
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+c  c 
+cccc
+testcase2.txt :
+|------------|
+Please enter an integer for width:Please enter an integer for length:Please enter a character:ooo
+o  o 
+ooo
+testcase3.txt :
+|------------|
+Please enter an integer for width:Please enter an integer for length:Please enter a character:xxxxxxx
+x     x 
+x     x 
+x     x 
+x     x 
+x     x 
+xxxxxxx
+________________________________________________________________________
+imtvarelis
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Please enter the length of rectangle: Please enter the width of rectangle: Please enter a character: hhhhhhhhhh
+h        h
+h        h
+h        h
+hhhhhhhhhh
+None
+testcase1.txt :
+|------------|
+Please enter the length of rectangle: Please enter the width of rectangle: Please enter a character: cccc
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+cccc
+None
+testcase2.txt :
+|------------|
+Please enter the length of rectangle: Please enter the width of rectangle: Please enter a character: ooo
+o o
+ooo
+None
+testcase3.txt :
+|------------|
+Please enter the length of rectangle: Please enter the width of rectangle: Please enter a character: xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+None
+________________________________________________________________________
+jkreka
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Write an integer:Write an integer:Write a character:hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Write an integer:Write an integer:Write a character:cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Write an integer:Write an integer:Write a character:ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Write an integer:Write an integer:Write a character:xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+jshin
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter an integer: Enter another integer: Enter a character: hhhhhhhhhh
+h                h
+h                h
+h                h
+hhhhhhhhhh
+testcase1.txt :
+|------------|
+Enter an integer: Enter another integer: Enter a character: cccc
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+c    c
+cccc
+testcase2.txt :
+|------------|
+Enter an integer: Enter another integer: Enter a character: ooo
+o  o
+ooo
+testcase3.txt :
+|------------|
+Enter an integer: Enter another integer: Enter a character: xxxxxxx
+x          x
+x          x
+x          x
+x          x
+x          x
+xxxxxxx
+________________________________________________________________________
+ksingh
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Input a length for a rectangle:
+Input a breadth for a rectangle:
+Input a character:
+hhhhhhhhhh
+h        h
+h        h
+h        h
+hhhhhhhhhh
+testcase1.txt :
+|------------|
+Input a length for a rectangle:
+Input a breadth for a rectangle:
+Input a character:
+cccc
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+cccc
+testcase2.txt :
+|------------|
+Input a length for a rectangle:
+Input a breadth for a rectangle:
+Input a character:
+ooo
+o  o
+ooo
+testcase3.txt :
+|------------|
+Input a length for a rectangle:
+Input a breadth for a rectangle:
+Input a character:
+xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+ldemorais
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+$$$$$$$
+$     $
+$     $
+$$$$$$$
+testcase1.txt :
+|------------|
+$$$$$$$
+$     $
+$     $
+$$$$$$$
+testcase2.txt :
+|------------|
+$$$$$$$
+$     $
+$     $
+$$$$$$$
+testcase3.txt :
+|------------|
+$$$$$$$
+$     $
+$     $
+$$$$$$$
+________________________________________________________________________
+lsellhornt
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Length of rectangle: Width of rectangle: Enter a character: hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Length of rectangle: Width of rectangle: Enter a character: cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Length of rectangle: Width of rectangle: Enter a character: ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Length of rectangle: Width of rectangle: Enter a character: xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+mihsan
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter width: Enter length: Enter character: hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Enter width: Enter length: Enter character: cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Enter width: Enter length: Enter character: ooo
+o  o
+ooo
+testcase3.txt :
+|------------|
+Enter width: Enter length: Enter character: xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+moeahmed
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter an integer n: Enter an integer m: Enter a character c : hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Enter an integer n: Enter an integer m: Enter a character c : cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Enter an integer n: Enter an integer m: Enter a character c : ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Enter an integer n: Enter an integer m: Enter a character c : xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+mramesh
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter the widthEnter the lengthEnter a characterhhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Enter the widthEnter the lengthEnter a charactercccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Enter the widthEnter the lengthEnter a characterooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Enter the widthEnter the lengthEnter a characterxxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+muhamer
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter integer n:Enter integer m:Enter a character:hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Enter integer n:Enter integer m:Enter a character:cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Enter integer n:Enter integer m:Enter a character:ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Enter integer n:Enter integer m:Enter a character:xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+ncopaci
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter an integer
+Enter an integer
+Enter a character
+h h h h h 
+
+h       h 
+
+h       h 
+
+h       h 
+
+h       h 
+
+h       h 
+
+h       h 
+
+h       h 
+
+h       h 
+
+h h h h h 
+
+testcase1.txt :
+|------------|
+Enter an integer
+Enter an integer
+Enter a character
+c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c 
+
+c                                                         c 
+
+c                                                         c 
+
+c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c 
+
+testcase2.txt :
+|------------|
+Enter an integer
+Enter an integer
+Enter a character
+o o o 
+
+o   o 
+
+o o o 
+
+testcase3.txt :
+|------------|
+Enter an integer
+Enter an integer
+Enter a character
+x x x x x x x 
+
+x           x 
+
+x           x 
+
+x           x 
+
+x           x 
+
+x           x 
+
+x x x x x x x 
+
+________________________________________________________________________
+ocheema
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Width of Rectangle = Length of Rectangle = Enter character to print = hhhhh
+h     h
+h     h
+h     h
+h     h
+h     h
+h     h
+h     h
+h     h
+hhhhh
+testcase1.txt :
+|------------|
+Width of Rectangle = Length of Rectangle = Enter character to print = cccccccccccccccccccccccccccccc
+c                              c
+c                              c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Width of Rectangle = Length of Rectangle = Enter character to print = ooo
+o   o
+ooo
+testcase3.txt :
+|------------|
+Width of Rectangle = Length of Rectangle = Enter character to print = xxxxxxx
+x       x
+x       x
+x       x
+x       x
+x       x
+xxxxxxx
+________________________________________________________________________
+prsharma
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter width:Enter a height:Enter a character:hhhhhhhhhh
+h        h
+h        h
+h        h
+hhhhhhhhhh
+testcase1.txt :
+|------------|
+Enter width:Enter a height:Enter a character:cccc
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+c  c
+cccc
+testcase2.txt :
+|------------|
+Enter width:Enter a height:Enter a character:ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Enter width:Enter a height:Enter a character:xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+rchikvilad
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Python
+is
+a
+great
+programming
+language
+PYTHON IS A GREAT PROGRAMMING LANGUAGE
+4
+Python is a Great proGramminG lanGuaGe
+testcase1.txt :
+|------------|
+Python
+is
+a
+great
+programming
+language
+PYTHON IS A GREAT PROGRAMMING LANGUAGE
+4
+Python is a Great proGramminG lanGuaGe
+testcase2.txt :
+|------------|
+Python
+is
+a
+great
+programming
+language
+PYTHON IS A GREAT PROGRAMMING LANGUAGE
+4
+Python is a Great proGramminG lanGuaGe
+testcase3.txt :
+|------------|
+Python
+is
+a
+great
+programming
+language
+PYTHON IS A GREAT PROGRAMMING LANGUAGE
+4
+Python is a Great proGramminG lanGuaGe
+________________________________________________________________________
+sabreu
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+enter rows: enter columns: enter character: hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+enter rows: enter columns: enter character: cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+enter rows: enter columns: enter character: ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+enter rows: enter columns: enter character: xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+sbaraeinez
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+enter integer1:enter integer2:enter character:hhhhh
+h     h
+h     h
+h     h
+h     h
+h     h
+h     h
+h     h
+h     h
+hhhhh
+testcase1.txt :
+|------------|
+enter integer1:enter integer2:enter character:cccccccccccccccccccccccccccccc
+c                              c
+c                              c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+enter integer1:enter integer2:enter character:ooo
+o   o
+ooo
+testcase3.txt :
+|------------|
+enter integer1:enter integer2:enter character:xxxxxxx
+x       x
+x       x
+x       x
+x       x
+x       x
+xxxxxxx
+________________________________________________________________________
+schang
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter an integer:Enter another integer:Enter a character:testcase1.txt :
+|------------|
+Enter an integer:Enter another integer:Enter a character:testcase2.txt :
+|------------|
+Enter an integer:Enter another integer:Enter a character:testcase3.txt :
+|------------|
+Enter an integer:Enter another integer:Enter a character:________________________________________________________________________
+sndlovu
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter an integer:Enter a second integer:Enter a character:hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Enter an integer:Enter a second integer:Enter a character:cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Enter an integer:Enter a second integer:Enter a character:ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Enter an integer:Enter a second integer:Enter a character:xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+tbiru
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter first integer: Enter second integer: Enter a character: hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Enter first integer: Enter second integer: Enter a character: cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Enter first integer: Enter second integer: Enter a character: ooo
+o o
+ooo
+testcase3.txt :
+|------------|
+Enter first integer: Enter second integer: Enter a character: xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+xbai
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Please Enter a Number: Please Enter a Number: Please Enter a Character: hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Please Enter a Number: Please Enter a Number: Please Enter a Character: cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Please Enter a Number: Please Enter a Number: Please Enter a Character: ooo
+o  o
+ooo
+testcase3.txt :
+|------------|
+Please Enter a Number: Please Enter a Number: Please Enter a Character: xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
+________________________________________________________________________
+yuliu
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter n: Enter m: Enter c: hhhhh
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+h   h
+hhhhh
+testcase1.txt :
+|------------|
+Enter n: Enter m: Enter c: cccccccccccccccccccccccccccccc
+c                            c
+c                            c
+cccccccccccccccccccccccccccccc
+testcase2.txt :
+|------------|
+Enter n: Enter m: Enter c: ooo
+o o
+ooo
