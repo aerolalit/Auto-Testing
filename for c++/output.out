@@ -1,0 +1,1420 @@
+________________________________________________________________________
+ahamza
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter the num...
+Set A contains..
+0 5 10 23 32 3932 
+
+Multiset B contains..
+0 5 10 23 32 3932 
+
+Set A after erasing 5..
+0 10 23 32 3932 
+
+Set B after erasing 5..
+0 10 23 32 3932 
+
+Union is.....
+0 10 14 23 32 198 3932 
+Intersection is.....
+0 10 23 32 3932 
+Difference is.....
+14 198 
+Symmetric Difference is.....
+14 198 
+testcase1.txt :
+|------------|
+Enter the num...
+Set A contains..
+4 8 30 328 
+
+Multiset B contains..
+4 8 30 328 
+
+Set A after erasing 5..
+4 8 30 328 
+
+Set B after erasing 5..
+4 8 30 328 
+
+Union is.....
+4 8 14 30 198 328 
+Intersection is.....
+4 8 30 328 
+Difference is.....
+14 198 
+Symmetric Difference is.....
+14 198 
+testcase2.txt :
+|------------|
+Enter the num...
+Set A contains..
+3 93 100 
+
+Multiset B contains..
+3 3 93 100 
+
+Set A after erasing 5..
+3 93 100 
+
+Set B after erasing 5..
+3 3 93 100 
+
+Union is.....
+3 3 14 93 100 198 
+Intersection is.....
+3 93 100 
+Difference is.....
+14 198 
+Symmetric Difference is.....
+3 14 198 
+testcase3.txt :
+|------------|
+Enter the num...
+Set A contains..
+0 7 23 
+
+Multiset B contains..
+0 7 7 23 23 
+
+Set A after erasing 5..
+0 7 23 
+
+Set B after erasing 5..
+0 7 7 23 23 
+
+Union is.....
+0 7 7 14 23 23 198 
+Intersection is.....
+0 7 23 
+Difference is.....
+14 198 
+Symmetric Difference is.....
+7 14 23 198 
+________________________________________________________________________
+alhambasan
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Set A: 0 5 10 23 32 3932 
+Multiset B: 0 5 10 23 32 3932 
+
+Set A: 0 10 23 32 3932 
+Multiset B: 0 10 23 32 3932 
+
+Union: 0 10 14 23 32 198 3932 
+Intersection: 0 10 23 32 3932 
+Difference: 14 198 
+Symmestric difference: 14 198 
+testcase1.txt :
+|------------|
+Set A: 4 8 30 328 
+Multiset B: 4 8 30 328 
+
+Set A: 4 8 30 328 
+Multiset B: 4 8 30 328 
+
+Union: 4 8 14 30 198 328 
+Intersection: 4 8 30 328 
+Difference: 14 198 
+Symmestric difference: 14 198 
+testcase2.txt :
+|------------|
+Set A: 3 93 100 
+Multiset B: 3 3 93 100 
+
+Set A: 3 93 100 
+Multiset B: 3 3 93 100 
+
+Union: 3 3 14 93 100 198 
+Intersection: 3 93 100 
+Difference: 14 198 
+Symmestric difference: 3 14 198 
+testcase3.txt :
+|------------|
+Set A: 0 7 23 
+Multiset B: 0 7 7 23 23 
+
+Set A: 0 7 23 
+Multiset B: 0 7 7 23 23 
+
+Union: 0 7 7 14 23 23 198 
+Intersection: 0 7 23 
+Difference: 14 198 
+Symmestric difference: 7 14 23 198 
+________________________________________________________________________
+asasu
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+0 5 10 23 32 3932 
+
+0 5 10 23 32 3932 
+
+0 10 23 32 3932 
+
+0 10 23 32 3932 
+
+0 10 14 23 32 198 3932 
+0 10 23 32 3932 
+14 198 
+
+14 198 
+
+testcase1.txt :
+|------------|
+4 8 30 328 
+
+4 8 30 328 
+
+4 8 30 328 
+
+4 8 30 328 
+
+4 8 14 30 198 328 
+4 8 30 328 
+14 198 
+
+14 198 
+
+testcase2.txt :
+|------------|
+3 93 100 
+
+3 3 93 100 
+
+3 93 100 
+
+3 3 93 100 
+
+3 3 14 93 100 198 
+3 93 100 
+14 198 
+
+3 14 198 
+
+testcase3.txt :
+|------------|
+0 7 23 
+
+0 7 7 23 23 
+
+0 7 23 
+
+0 7 7 23 23 
+
+0 7 7 14 23 23 198 
+0 7 23 
+14 198 
+
+7 14 23 198 
+
+________________________________________________________________________
+bngugi
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter integers: 
+Set A contains: 
+0 5 10 23 32 3932 
+
+Multiset B contains: 
+0 5 10 23 32 3932 
+
+Set A now contains: 
+0 5 10 14 23 32 198 3932 testcase1.txt :
+|------------|
+Enter integers: 
+Set A contains: 
+0 4 8 30 328 
+
+Multiset B contains: 
+0 4 8 30 328 
+
+Set A now contains: 
+0 4 8 14 30 198 328 testcase2.txt :
+|------------|
+Enter integers: 
+Set A contains: 
+0 3 93 100 
+
+Multiset B contains: 
+0 3 3 93 100 
+
+Set A now contains: 
+0 3 14 93 100 198 testcase3.txt :
+|------------|
+Enter integers: 
+Set A contains: 
+0 7 23 
+
+Multiset B contains: 
+0 7 7 23 
+
+Set A now contains: 
+0 7 14 23 198 ________________________________________________________________________
+corothgang
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+(5 10 23 32 3932)
+(5 10 23 32 3932)
+
+(10 23 32 3932)
+(10 23 32 3932)
+The union: 
+(10 10 14 23 23 32 32 198 3932 3932)
+The intersection: 
+(10 14 23 32 198 3932)
+The difference: 
+(14 198)
+The symmetrical difference:
+(14 198)
+testcase1.txt :
+|------------|
+(4 8 30 328)
+(4 8 30 328)
+
+(4 8 30 328)
+(4 8 30 328)
+The union: 
+(4 4 8 8 14 30 30 198 328 328)
+The intersection: 
+(4 8 14 30 198 328)
+The difference: 
+(14 198)
+The symmetrical difference:
+(14 198)
+testcase2.txt :
+|------------|
+(3 93 100)
+(3 3 93 100)
+
+(3 93 100)
+(3 3 93 100)
+The union: 
+(3 3 3 14 93 93 100 100 198)
+The intersection: 
+(3 14 93 100 198)
+The difference: 
+(14 198)
+The symmetrical difference:
+(14 198)
+testcase3.txt :
+|------------|
+(7 23)
+(7 7 23)
+
+(7 23)
+(7 7 23)
+The union: 
+(7 7 7 14 23 23 198)
+The intersection: 
+(7 14 23 198)
+The difference: 
+(14 198)
+The symmetrical difference:
+(14 198)
+________________________________________________________________________
+fajamal
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+A: 0 5 10 23 32 3932 
+
+B: 0 5 10 23 32 3932 
+
+A: 0 10 23 32 3932 
+
+B: 0 10 23 32 3932 
+Intersection:
+0 10 23 32 3932 
+Diff:
+14 198 
+Union:
+0 10 14 23 32 198 3932 
+Symmetric difference:
+14 198 
+testcase1.txt :
+|------------|
+A: 4 8 30 328 
+
+B: 4 8 30 328 
+
+A: 4 8 30 328 
+
+B: 4 8 30 328 
+Intersection:
+4 8 30 328 
+Diff:
+14 198 
+Union:
+4 8 14 30 198 328 
+Symmetric difference:
+14 198 
+testcase2.txt :
+|------------|
+A: 3 93 100 
+
+B: 3 3 93 100 
+
+A: 3 93 100 
+
+B: 3 3 93 100 
+Intersection:
+3 93 100 
+Diff:
+14 198 
+Union:
+3 3 14 93 100 198 
+Symmetric difference:
+3 14 198 
+testcase3.txt :
+|------------|
+A: 0 7 23 
+
+B: 0 7 7 23 23 
+
+A: 0 7 23 
+
+B: 0 7 7 23 23 
+Intersection:
+0 7 23 
+Diff:
+14 198 
+Union:
+0 7 7 14 23 23 198 
+Symmetric difference:
+7 14 23 198 
+________________________________________________________________________
+lmeyer
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+0 5 10 23 32 3932 
+0 5 10 23 32 3932 
+0 10 23 32 3932 
+0 10 23 32 3932 
+0 0 10 10 14 23 23 32 32 198 3932 3932 
+0 10 23 32 3932 
+14 198 
+14 198 
+testcase1.txt :
+|------------|
+4 8 30 328 
+4 8 30 328 
+4 8 30 328 
+4 8 30 328 
+4 4 8 8 14 30 30 198 328 328 
+4 8 30 328 
+14 198 
+14 198 
+testcase2.txt :
+|------------|
+3 93 100 
+3 3 93 100 
+3 93 100 
+3 3 93 100 
+3 3 3 14 93 93 100 100 198 
+3 93 100 
+14 198 
+14 198 
+testcase3.txt :
+|------------|
+0 7 23 
+0 7 7 23 23 
+0 7 23 
+0 7 7 23 23 
+0 0 7 7 7 14 23 23 23 198 
+0 7 23 
+14 198 
+14 198 
+________________________________________________________________________
+lmucolli
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Set A: 
+Multiset B: 
+
+testcase1.txt :
+|------------|
+Set A: 
+Multiset B: 
+
+testcase2.txt :
+|------------|
+Set A: 
+Multiset B: 
+
+testcase3.txt :
+|------------|
+Set A: 
+Multiset B: 
+
+________________________________________________________________________
+magrandera
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+0 5 10 23 32 3932 
+
+0 5 10 23 32 3932 
+
+0 10 23 32 3932 
+
+0 10 23 32 3932 
+
+0 10 14 23 32 198 3932 
+
+0 10 23 32 3932 
+
+14 198 
+
+14 198 
+testcase1.txt :
+|------------|
+4 8 30 328 
+
+4 8 30 328 
+
+4 8 30 328 
+
+4 8 30 328 
+
+4 8 14 30 198 328 
+
+4 8 30 328 
+
+14 198 
+
+14 198 
+testcase2.txt :
+|------------|
+3 93 100 
+
+3 3 93 100 
+
+3 93 100 
+
+3 3 93 100 
+
+3 3 14 93 100 198 
+
+3 93 100 
+
+14 198 
+
+3 14 198 
+testcase3.txt :
+|------------|
+0 7 23 
+
+0 7 7 23 23 
+
+0 7 23 
+
+0 7 7 23 23 
+
+0 7 7 14 23 23 198 
+
+0 7 23 
+
+14 198 
+
+7 14 23 198 
+________________________________________________________________________
+mchairani
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter input: Enter input: Enter input: Enter input: Enter input: Enter input: Enter input: 0 5 10 23 32 3932 
+
+0 5 10 23 32 3932 
+
+0 10 23 32 3932 
+
+0 10 23 32 3932 
+
+Union                : 0 10 14 23 32 198 3932 
+Intersection         : 0 10 23 32 3932 
+Difference           : 14 198 
+Symmetric difference : 14 198 
+testcase1.txt :
+|------------|
+Enter input: Enter input: Enter input: Enter input: Enter input: 4 8 30 328 
+
+4 8 30 328 
+
+4 8 30 328 
+
+4 8 30 328 
+
+Union                : 4 8 14 30 198 328 
+Intersection         : 4 8 30 328 
+Difference           : 14 198 
+Symmetric difference : 14 198 
+testcase2.txt :
+|------------|
+Enter input: Enter input: Enter input: Enter input: Enter input: 3 93 100 
+
+3 3 93 100 
+
+3 93 100 
+
+3 3 93 100 
+
+Union                : 3 3 14 93 100 198 
+Intersection         : 3 93 100 
+Difference           : 14 198 
+Symmetric difference : 3 14 198 
+testcase3.txt :
+|------------|
+Enter input: Enter input: Enter input: Enter input: Enter input: Enter input: 0 7 23 
+
+0 7 7 23 23 
+
+0 7 23 
+
+0 7 7 23 23 
+
+Union                : 0 7 7 14 23 23 198 
+Intersection         : 0 7 23 
+Difference           : 14 198 
+Symmetric difference : 7 14 23 198 
+________________________________________________________________________
+mcui
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+0 5 10 23 32 3932 
+
+0 5 10 23 32 3932 
+
+0 10 23 32 3932 
+
+0 10 23 32 3932 
+
+0 0 10 10 14 23 23 32 32 198 3932 3932 0 10 23 32 3932 14 198 14 198 testcase1.txt :
+|------------|
+4 8 30 328 
+
+4 8 30 328 
+
+4 8 30 328 
+
+4 8 30 328 
+
+4 4 8 8 14 30 30 198 328 328 4 8 30 328 14 198 14 198 testcase2.txt :
+|------------|
+3 93 100 
+
+3 3 93 100 
+
+3 93 100 
+
+3 3 93 100 
+
+3 3 3 14 93 93 100 100 198 3 93 100 14 198 3 14 198 testcase3.txt :
+|------------|
+0 7 23 
+
+0 7 7 23 23 
+
+0 7 23 
+
+0 7 7 23 23 
+
+0 0 7 7 7 14 23 23 23 198 0 7 23 14 198 7 14 23 198 ________________________________________________________________________
+mretevoi
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+5 10 23 32 3932 
+
+5 10 23 32 3932 
+
+10 23 32 3932 
+
+10 23 32 3932 
+
+10 14 23 32 198 3932 
+10 23 32 3932 
+14 198 
+14 198 testcase1.txt :
+|------------|
+4 8 30 328 
+
+4 8 30 328 
+
+4 8 30 328 
+
+4 8 30 328 
+
+4 8 14 30 198 328 
+4 8 30 328 
+14 198 
+14 198 testcase2.txt :
+|------------|
+3 93 100 
+
+3 3 93 100 
+
+3 93 100 
+
+3 3 93 100 
+
+3 3 14 93 100 198 
+3 93 100 
+14 198 
+3 14 198 testcase3.txt :
+|------------|
+7 23 
+
+7 7 23 
+
+7 23 
+
+7 7 23 
+
+7 7 14 23 198 
+7 23 
+14 198 
+7 14 198 ________________________________________________________________________
+mtarigrads
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+0 5 10 23 32 3932 
+0 5 10 23 32 3932 
+0 10 23 32 3932 
+0 10 23 32 3932 
+0 10 14 23 32 198 3932 
+0 10 23 32 3932 
+14 198 
+14 198 
+testcase1.txt :
+|------------|
+4 8 30 328 
+4 8 30 328 
+4 8 30 328 
+4 8 30 328 
+4 8 14 30 198 328 
+4 8 30 328 
+14 198 
+14 198 
+testcase2.txt :
+|------------|
+3 93 100 
+3 3 93 100 
+3 93 100 
+3 3 93 100 
+3 3 14 93 100 198 
+3 93 100 
+14 198 
+3 14 198 
+testcase3.txt :
+|------------|
+0 7 23 
+0 7 7 23 23 
+0 7 23 
+0 7 7 23 23 
+0 7 7 14 23 23 198 
+0 7 23 
+14 198 
+7 14 23 198 
+________________________________________________________________________
+mthanasi
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+0 5 10 23 32 3932 
+0 5 10 23 32 3932 
+0 10 23 32 3932 
+0 10 23 32 3932 
+0 0 10 10 14 23 23 32 32 198 3932 3932 
+0 10 23 32 3932 
+14 198 
+14 198 
+testcase1.txt :
+|------------|
+4 8 30 328 
+4 8 30 328 
+4 8 30 328 
+4 8 30 328 
+4 4 8 8 14 30 30 198 328 328 
+4 8 30 328 
+14 198 
+14 198 
+testcase2.txt :
+|------------|
+3 93 100 
+3 3 93 100 
+3 93 100 
+3 3 93 100 
+3 3 3 14 93 93 100 100 198 
+3 93 100 
+14 198 
+3 14 198 
+testcase3.txt :
+|------------|
+0 7 23 
+0 7 7 23 23 
+0 7 23 
+0 7 7 23 23 
+0 0 7 7 7 14 23 23 23 198 
+0 7 23 
+14 198 
+7 14 23 198 
+________________________________________________________________________
+muhassan
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter Integers: 
+Elements of A: 0 5 10 23 32 3932 
+
+Elements of A: 0 5 10 23 32 3932 
+
+Elements of A after removing 5s: 0 10 23 32 3932 
+
+Elements of B after removing 5s: 0 10 23 32 3932 
+
+Union of set A & B: 0 10 14 23 32 198 3932 
+Intersection of A & B: 0 10 23 32 3932 
+The Difference of A & B: 14 198 
+The symmetric Difference of A & B: 14 198 
+testcase1.txt :
+|------------|
+Enter Integers: 
+Elements of A: 4 8 30 328 
+
+Elements of A: 4 8 30 328 
+
+Elements of A after removing 5s: 4 8 30 328 
+
+Elements of B after removing 5s: 4 8 30 328 
+
+Union of set A & B: 4 8 14 30 198 328 
+Intersection of A & B: 4 8 30 328 
+The Difference of A & B: 14 198 
+The symmetric Difference of A & B: 14 198 
+testcase2.txt :
+|------------|
+Enter Integers: 
+Elements of A: 3 93 100 
+
+Elements of A: 3 3 93 100 
+
+Elements of A after removing 5s: 3 93 100 
+
+Elements of B after removing 5s: 3 3 93 100 
+
+Union of set A & B: 3 3 14 93 100 198 
+Intersection of A & B: 3 93 100 
+The Difference of A & B: 14 198 
+The symmetric Difference of A & B: 3 14 198 
+testcase3.txt :
+|------------|
+Enter Integers: 
+Elements of A: 0 7 23 
+
+Elements of A: 0 7 7 23 23 
+
+Elements of A after removing 5s: 0 7 23 
+
+Elements of B after removing 5s: 0 7 7 23 23 
+
+Union of set A & B: 0 7 7 14 23 23 198 
+Intersection of A & B: 0 7 23 
+The Difference of A & B: 14 198 
+The symmetric Difference of A & B: 7 14 23 198 
+________________________________________________________________________
+mvelagalet
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter number: Enter number: Enter number: Enter number: Enter number: Enter number: Enter number: 
+The elements in set A are: 
+0 5 10 23 32 3932 
+
+The elements in multiset B are: 
+0 5 10 23 32 3932 
+The elements in set A after deleting 5 are: 
+0 10 23 32 3932 
+The elements in multiset B after deleting 5 are: 
+0 10 23 32 3932 
+After Union: 
+0 10 14 23 32 198 3932 
+After Intersection: 
+0 10 23 32 3932 
+Difference: 
+14 198 
+Symmetric Difference: 
+14 198 
+testcase1.txt :
+|------------|
+Enter number: Enter number: Enter number: Enter number: Enter number: 
+The elements in set A are: 
+4 8 30 328 
+
+The elements in multiset B are: 
+4 8 30 328 
+The elements in set A after deleting 5 are: 
+4 8 30 328 
+The elements in multiset B after deleting 5 are: 
+4 8 30 328 
+After Union: 
+4 8 14 30 198 328 
+After Intersection: 
+4 8 30 328 
+Difference: 
+14 198 
+Symmetric Difference: 
+14 198 
+testcase2.txt :
+|------------|
+Enter number: Enter number: Enter number: Enter number: Enter number: 
+The elements in set A are: 
+3 93 100 
+
+The elements in multiset B are: 
+3 3 93 100 
+The elements in set A after deleting 5 are: 
+3 93 100 
+The elements in multiset B after deleting 5 are: 
+3 3 93 100 
+After Union: 
+3 3 14 93 100 198 
+After Intersection: 
+3 93 100 
+Difference: 
+14 198 
+Symmetric Difference: 
+3 14 198 
+testcase3.txt :
+|------------|
+Enter number: Enter number: Enter number: Enter number: Enter number: Enter number: 
+The elements in set A are: 
+0 7 23 
+
+The elements in multiset B are: 
+0 7 7 23 23 
+The elements in set A after deleting 5 are: 
+0 7 23 
+The elements in multiset B after deleting 5 are: 
+0 7 7 23 23 
+After Union: 
+0 7 7 14 23 23 198 
+After Intersection: 
+0 7 23 
+Difference: 
+14 198 
+Symmetric Difference: 
+7 14 23 198 
+________________________________________________________________________
+mvitanov
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+
+Set A: 0 5 10 23 32 3932 
+
+Multiset B: 0 5 10 23 32 3932 
+
+Set A: 0 10 23 32 3932 
+
+Multiset B: 0 10 23 32 3932 
+
+Union of A and B: 0 10 14 23 32 198 3932 
+Intersection of A and B: 0 10 23 32 3932 
+Difference A\B: 14 198 
+Symmetric Difference A\B: 14 198 
+testcase1.txt :
+|------------|
+
+Set A: 4 8 30 328 
+
+Multiset B: 4 8 30 328 
+
+Set A: 4 8 30 328 
+
+Multiset B: 4 8 30 328 
+
+Union of A and B: 4 8 14 30 198 328 
+Intersection of A and B: 4 8 30 328 
+Difference A\B: 14 198 
+Symmetric Difference A\B: 14 198 
+testcase2.txt :
+|------------|
+
+Set A: 3 93 100 
+
+Multiset B: 3 3 93 100 
+
+Set A: 3 93 100 
+
+Multiset B: 3 3 93 100 
+
+Union of A and B: 3 3 14 93 100 198 
+Intersection of A and B: 3 93 100 
+Difference A\B: 14 198 
+Symmetric Difference A\B: 3 14 198 
+testcase3.txt :
+|------------|
+
+Set A: 0 7 23 
+
+Multiset B: 0 7 7 23 23 
+
+Set A: 0 7 23 
+
+Multiset B: 0 7 7 23 23 
+
+Union of A and B: 0 7 7 14 23 23 198 
+Intersection of A and B: 0 7 23 
+Difference A\B: 14 198 
+Symmetric Difference A\B: 7 14 23 198 
+________________________________________________________________________
+omiron
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+0 5 10 23 32 3932 
+
+0 5 10 23 32 3932 
+
+0 10 23 32 3932 
+
+0 10 23 32 3932 
+
+0 10 14 23 32 198 3932 
+0 10 23 32 3932 
+14 198 
+14 198 
+testcase1.txt :
+|------------|
+4 8 30 328 
+
+4 8 30 328 
+
+4 8 30 328 
+
+4 8 30 328 
+
+4 8 14 30 198 328 
+4 8 30 328 
+14 198 
+14 198 
+testcase2.txt :
+|------------|
+3 93 100 
+
+3 3 93 100 
+
+3 93 100 
+
+3 3 93 100 
+
+3 3 14 93 100 198 
+3 93 100 
+14 198 
+3 14 198 
+testcase3.txt :
+|------------|
+0 7 23 
+
+0 7 7 23 23 
+
+0 7 23 
+
+0 7 7 23 23 
+
+0 7 7 14 23 23 198 
+0 7 23 
+14 198 
+7 14 23 198 
+________________________________________________________________________
+sbaraeinez
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+
+
+
+
+24 198 
+
+24 198 
+24 198 testcase1.txt :
+|------------|
+
+
+
+
+24 198 
+
+24 198 
+24 198 testcase2.txt :
+|------------|
+
+
+
+
+24 198 
+
+24 198 
+24 198 testcase3.txt :
+|------------|
+
+
+
+
+24 198 
+
+24 198 
+24 198 ________________________________________________________________________
+sbien
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+A: 5 10 23 32 3932 
+
+B: 5 10 23 32 3932 
+
+A w/o 5: 10 23 32 3932 
+
+B w/o 5: 10 23 32 3932 
+
+Union: 10 14 23 32 198 3932 
+
+Intersection: 10 23 32 3932 
+
+Difference: 14 198 
+
+Symmetric difference: 14 198 
+testcase1.txt :
+|------------|
+A: 4 8 30 328 
+
+B: 4 8 30 328 
+
+A w/o 5: 4 8 30 328 
+
+B w/o 5: 4 8 30 328 
+
+Union: 4 8 14 30 198 328 
+
+Intersection: 4 8 30 328 
+
+Difference: 14 198 
+
+Symmetric difference: 14 198 
+testcase2.txt :
+|------------|
+A: 3 93 100 
+
+B: 3 3 93 100 
+
+A w/o 5: 3 93 100 
+
+B w/o 5: 3 3 93 100 
+
+Union: 3 3 14 93 100 198 
+
+Intersection: 3 93 100 
+
+Difference: 14 198 
+
+Symmetric difference: 3 14 198 
+testcase3.txt :
+|------------|
+A: 7 23 
+
+B: 7 7 23 
+
+A w/o 5: 7 23 
+
+B w/o 5: 7 7 23 
+
+Union: 7 7 14 23 198 
+
+Intersection: 7 23 
+
+Difference: 14 198 
+
+Symmetric difference: 7 14 198 
+________________________________________________________________________
+sfatima
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+
+A: 0 5 10 23 32 3932 
+
+B: 0 5 10 23 32 3932 
+
+A: 0 10 23 32 3932 
+
+B: 0 10 23 32 3932 
+
+Union:0 10 14 23 32 198 3932 
+
+Intersection:0 10 23 32 3932 
+
+Difference:14 198 
+
+Symmetric difference:14 198 
+testcase1.txt :
+|------------|
+
+A: 4 8 30 328 
+
+B: 4 8 30 328 
+
+A: 4 8 30 328 
+
+B: 4 8 30 328 
+
+Union:4 8 14 30 198 328 
+
+Intersection:4 8 30 328 
+
+Difference:14 198 
+
+Symmetric difference:14 198 
+testcase2.txt :
+|------------|
+
+A: 3 93 100 
+
+B: 3 3 93 100 
+
+A: 3 93 100 
+
+B: 3 3 93 100 
+
+Union:3 3 14 93 100 198 
+
+Intersection:3 93 100 
+
+Difference:14 198 
+
+Symmetric difference:3 14 198 
+testcase3.txt :
+|------------|
+
+A: 0 7 23 
+
+B: 0 7 7 23 23 
+
+A: 0 7 23 
+
+B: 0 7 7 23 23 
+
+Union:0 7 7 14 23 23 198 
+
+Intersection:0 7 23 
+
+Difference:14 198 
+
+Symmetric difference:7 14 23 198 
+________________________________________________________________________
+sgyawali
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+0 5 10 23 32 3932 
+0 5 10 23 32 3932 
+0 10 23 32 3932 
+0 10 23 32 3932 
+0 10 14 23 32 198 3932 
+0 10 23 32 3932 
+14 
+14 198 testcase1.txt :
+|------------|
+4 8 30 328 
+4 8 30 328 
+4 8 30 328 
+4 8 30 328 
+4 8 14 30 198 328 
+4 8 30 328 
+14 
+14 198 testcase2.txt :
+|------------|
+3 93 100 
+3 3 93 100 
+3 93 100 
+3 3 93 100 
+3 3 14 93 100 198 
+3 93 100 
+14 
+3 14 198 testcase3.txt :
+|------------|
+0 7 23 
+0 7 7 23 23 
+0 7 23 
+0 7 7 23 23 
+0 7 7 14 23 23 198 
+0 7 23 
+14 
+7 14 23 198 ________________________________________________________________________
+xdu
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+0 5 10 23 32 3932 
+
+0 5 10 23 32 3932 
+
+0 10 23 32 3932 
+
+0 10 23 32 3932 
+
+union:0 10 14 23 32 198 3932 
+intersection:0 10 23 32 3932 
+difference:14 198 
+symmetric difference:14 198 
+testcase1.txt :
+|------------|
+4 8 30 328 
+
+4 8 30 328 
+
+4 8 30 328 
+
+4 8 30 328 
+
+union:4 8 14 30 198 328 
+intersection:4 8 30 328 
+difference:14 198 
+symmetric difference:14 198 
+testcase2.txt :
+|------------|
+3 93 100 
+
+3 3 93 100 
+
+3 93 100 
+
+3 3 93 100 
+
+union:3 3 14 93 100 198 
+intersection:3 93 100 
+difference:14 198 
+symmetric difference:3 14 198 
+testcase3.txt :
+|------------|
+0 7 23 
+
+0 7 7 23 23 
+
+0 7 23 
+
+0 7 7 23 23 
+
+union:0 7 7 14 23 23 198 
+intersection:0 7 23 
+difference:14 198 
+symmetric difference:7 14 23 198 
+________________________________________________________________________
+zdar
+________________________________________________________________________
+Testcases running from:
+testcase.txt :
+|------------|
+Enter numbers: 
+A: 0 5 10 23 32 3932 
+
+B: 0 5 10 23 32 3932 
+
+A: 0 10 23 32 3932 
+
+B: 0 10 23 32 3932 
+
+Union of the sets: 0 10 14 23 32 198 3932 
+
+Intersection of the sets: 0 10 23 32 3932 
+
+Difference of the sets: 14 198 
+
+Symmetric difference between the sets: 14 198 
+testcase1.txt :
+|------------|
+Enter numbers: 
+A: 4 8 30 328 
+
+B: 4 8 30 328 
+
+A: 4 8 30 328 
+
+B: 4 8 30 328 
+
+Union of the sets: 4 8 14 30 198 328 
+
+Intersection of the sets: 4 8 30 328 
+
+Difference of the sets: 14 198 
+
+Symmetric difference between the sets: 14 198 
+testcase2.txt :
+|------------|
+Enter numbers: 
+A: 3 93 100 
+
+B: 3 3 93 100 
+
+A: 3 93 100 
+
+B: 3 3 93 100 
+
+Union of the sets: 3 3 14 93 100 198 
+
+Intersection of the sets: 3 93 100 
+
+Difference of the sets: 14 198 
+
+Symmetric difference between the sets: 3 14 198 
+testcase3.txt :
+|------------|
+Enter numbers: 
+A: 0 7 23 
+
+B: 0 7 7 23 23 
+
+A: 0 7 23 
+
+B: 0 7 7 23 23 
+
+Union of the sets: 0 7 7 14 23 23 198 
+
+Intersection of the sets: 0 7 23 
+
+Difference of the sets: 14 198 
+
+Symmetric difference between the sets: 7 14 23 198 
