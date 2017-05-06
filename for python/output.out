@@ -1831,3 +1831,12 @@ testcase2.txt :
 Enter n: Enter m: Enter c: ooo
 o o
 ooo
+testcase3.txt :
+|------------|
+Enter n: Enter m: Enter c: xxxxxxx
+x     x
+x     x
+x     x
+x     x
+x     x
+xxxxxxx
