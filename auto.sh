@@ -17,9 +17,9 @@ do
     folder=${dir##*/}
     echo `echo Student: $folder`
     counter="1"
-    NAME=input
+    NAME=testcase
     FORMAT=.txt
-    TestCaseFile="input.txt" # Name of file containging testcase
+    TestCaseFile="testcase.txt" # Name of file containging testcase
     ProgramName="pframe.py"   #file name of the programe
     ProgramFullName=`echo ./$dataFolder/$folder/$ProgramName`
     echo `echo PATH: $ProgramFullName`
