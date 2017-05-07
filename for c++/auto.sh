@@ -1,5 +1,5 @@
 #This script automatizes the job of TAs who grade the programming task of students.
-#This scipt is only to run the python programs.
+#This scipt is only to run the c++ programs.
 #All the test cases should be defined in file in order as given below:
 #FileName + counter + format
 ##eg input.txt input1.txt input2.txt and so on..
